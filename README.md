@@ -8,7 +8,13 @@
 
 ## Video Walkthrough
 
-[![Loom Video Walkthrough](https://cdn.loom.com/sessions/thumbnails/602af1ad1a444358bf7da30760649929-with-play.gif)](https://www.loom.com/share/602af1ad1a444358bf7da30760649929)
+<div align="center">
+  <a href="https://www.loom.com/share/602af1ad1a444358bf7da30760649929">
+    <img src="https://cdn.loom.com/sessions/thumbnails/602af1ad1a444358bf7da30760649929-with-play.gif" alt="Azure Lab Walkthrough" style="width:100%; border:none;">
+  </a>
+</div>
+
+---
 
 ---
 

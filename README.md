@@ -12,7 +12,6 @@
 
 ---
 
----
 
 ## Overview
 
@@ -21,6 +20,8 @@ In this lab, you will deploy your first public-facing resource in Azure. Instead
 ---
 
 ## Architecture
+
+![Lab 01 Architecture — Azure Static Website Hosting](./screenshots/lab1 architecture.jpg)
 
 ```
 User (Browser)  ──HTTPS──►  Azure Storage Account
